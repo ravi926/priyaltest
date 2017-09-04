@@ -1,0 +1,6 @@
+{
+ "id":"webserver",
+ "application1_ipadress":"10.101.111.222",
+ "application2_ipadress":"10.101.122.333",
+ "db_1_ipaddress" : "10.201.123.456"
+}
